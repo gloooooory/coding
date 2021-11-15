@@ -1,3 +1,9 @@
+/**
+ * Link: https://practice.geeksforgeeks.org/problems/print-the-pattern-set-1/1
+ * Date: 15th Nov 2021
+ * Code #1
+ */
+
 import java.util.Scanner;
 
 class PrintPattern {

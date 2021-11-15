@@ -1,4 +1,10 @@
-import java.util.*;
+/**
+ * Link: https://practice.geeksforgeeks.org/problems/series-ap5310/1
+ * Date: 15th Nov 2021
+ * Code #3
+ */
+
+ import java.util.*;
 
 class SeriesAP {
     public static void main(String[] args) {

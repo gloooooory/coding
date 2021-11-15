@@ -1,3 +1,9 @@
+/**
+ * Link: https://practice.geeksforgeeks.org/problems/series-gp4646/1
+ * Date: 15th Nov 2021
+ * Code #4
+ */
+
 import java.util.*;
 
 class SeriesGP {

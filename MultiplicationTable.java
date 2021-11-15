@@ -1,3 +1,9 @@
+/**
+ * Link: https://practice.geeksforgeeks.org/problems/print-table0303/1
+ * Date: 15th Nov 2021
+ * Code #2
+ */
+
 import java.util.*;
 
 class GfG {
