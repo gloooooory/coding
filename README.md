@@ -1,6 +1,6 @@
 # coding
 
-Coding is a repository in which I will solve a few coding questions everyday.
+Coding is a repository in which I will solve a few coding questions every day using Java.
 
 ## Usage
 
